@@ -1,7 +1,6 @@
 # Hello, World! 👋
 
-### I'm Armia Joseph, a computer engineering student with a deep love for technology and a intend for crafting clean, efficient code.
-### Welcome to my GitHub profile, where I bring my ideas to life through code and collaborate with the global developer community.
+### I'm Armia Joseph, a computer engineering student at Faculty of Engineering Alexandria University with a deep love for technology and a intend for crafting clean, efficient code. Welcome to my GitHub profile, where I bring my ideas to life through code and collaborate with the global developer community.
 
 ## 🚀 Quick Overview
 
