@@ -14,7 +14,7 @@
 
 - Languages: Java, C++, Python, JavaScript, HTML, CSS
 - Frameworks: VueJS, Springboot
-- Tools: IntelliJ IDE
+- Tools: IntelliJ Ultimate IDE
 
 ## 🛠️ Projects
 
