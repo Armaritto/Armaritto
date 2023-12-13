@@ -4,7 +4,7 @@
 
 ## 🚀 Quick Overview
 
-- 🔭 Currently working on [Tournamate](https://github.com/Armaritto/Tournamate)
+- 🔭 Currently working on [Tournamate](https://github.com/Armaritto/Tournamate) , [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver)
 - 🌱 Learning Java, Python, and VueJS
 - 💡 Interested in Software Engineering, Embedded Systems
 - 📚 Pursuing a degree in Computer Engineering
