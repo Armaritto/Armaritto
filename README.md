@@ -1,9 +1,10 @@
 # Hello, World! 👋
 
-### I'm Armia Joseph, a computer engineering student at Faculty of Engineering Alexandria University with a deep love for technology and a intend for crafting clean, efficient code. Welcome to my GitHub profile, where I bring my ideas to life through code and collaborate with the global developer community.
+### I'm Armia Joseph, Welcome to my GitHub profile, where I bring my ideas to life.
 
 ## 🚀 Quick Overview
 
+- 🏛️ student at Faculty of Engineering Alexandria University
 - 🔭 Currently working on [Tournamate](https://github.com/Armaritto/Tournamate) , [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver)
 - 🌱 Learning Java, Python, and VueJS
 - 💡 Interested in Software Engineering, Embedded Systems
