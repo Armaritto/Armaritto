@@ -16,6 +16,11 @@
 - Languages: Java, C++, Python, JavaScript, HTML, CSS
 - Frameworks: VueJS, Springboot
 - Tools: IntelliJ Ultimate IDE
+  <div style="display: flex; justify-content: center;">
+    
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaritto&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
+</div>
 
 ## 🛠️ Projects
 
@@ -25,13 +30,10 @@ Here are some projects I'm proud of:
 2. [Connect-4s](https://github.com/Armaritto/Connect-4)
 
 ## Stats 📊
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div class="stats" style="display: flex; flex-direction: column; align-items: center;">
-    
+<div style="display: flex; justify-content: center;">
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaritto&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
-  </div>
 </div>
 ## 🌐 Connect with Me
 
