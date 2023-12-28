@@ -35,6 +35,7 @@ Here are some projects I'm proud of:
 ![GitHub Streak](https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20)
 
 </div>
+
 ## 🌐 Connect with Me
 
 - LinkedIn: [Armia Joseph](https://www.linkedin.com/in/armia-joseph-602998220/)
