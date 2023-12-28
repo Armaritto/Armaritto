@@ -25,7 +25,7 @@ Here are some projects I'm proud of:
 2. [Connect-4s](https://github.com/Armaritto/Connect-4)
 
 ## Stats 📊
-<div class="stats" style="display: flex; flex-direction: column; align-items: center;">
+<div class="stats" style="display: flex; flex-direction: column;">
 <div> 
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20)
