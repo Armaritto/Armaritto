@@ -27,10 +27,9 @@ Here are some projects I'm proud of:
 ## Stats 📊
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div class="stats" style="display: flex; flex-direction: column; align-items: center;">
-
-    <img src="https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak" style="max-width: 100%;">
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaritto&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Most Used Languages" style="max-width: 100%;">
+    
+![GitHub Streak](https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaritto&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
   </div>
 </div>
