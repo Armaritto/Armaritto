@@ -5,7 +5,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [Tournamate](https://github.com/Armaritto/Tournamate) , [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver)
+<!-- - 🔭 Currently working on [Tournamate](https://github.com/Armaritto/Tournamate) , [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) -->
 - 🌱 Learning Java, Python, and VueJS
 - 💡 Interested in Software Engineering, Embedded Systems
 - 📚 Pursuing a degree in Computer Engineering
@@ -29,6 +29,7 @@ Here are some projects I'm proud of:
 1. [BerryMail](https://github.com/Armaritto/BerryMail)
 2. [Paint](https://github.com/Armaritto/Paint)
 3. [Connect-4s](https://github.com/Armaritto/Connect-4)
+4. [Tournamate](https://github.com/Armaritto/Tournamate)
 
 ## Stats 📊
 <div style="display: flex; justify-content: center;">
