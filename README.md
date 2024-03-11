@@ -26,10 +26,11 @@
 Here are some projects I'm proud of:
 
 1. [BerryMail](https://github.com/Armaritto/BerryMail)
-2. [Paint](https://github.com/Armaritto/Paint)
-3. [Connect-4s](https://github.com/Armaritto/Connect-4)
-4. [Tournamate](https://github.com/Armaritto/Tournamate)
-5. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
+2. [ArmaShell](https://github.com/Armaritto/ArmaShell)
+3. [Paint](https://github.com/Armaritto/Paint)
+4. [Connect-4s](https://github.com/Armaritto/Connect-4)
+5. [Tournamate](https://github.com/Armaritto/Tournamate)
+6. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
 
 ## Stats 📊
 <div style="display: flex; justify-content: center;">
