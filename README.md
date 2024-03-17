@@ -6,7 +6,8 @@
 
 ## 🚀 Quick Overview
 
-- 🏛️ student at Faculty of Engineering Alexandria University<!--- 🔭 Currently working on [Producer-Consumer](https://github.com/SantiagoMontag/Equation-Solver)--> 
+- 🏛️ student at Faculty of Engineering Alexandria University
+- 🔭 Currently working on Relaxation :) <!-- [Producer-Consumer](https://github.com/SantiagoMontag/Equation-Solver)-->
 - 🌱 Learning Java, Python, and VueJS
 - 💡 Interested in Software Engineering, Embedded Systems
 - 📚 Pursuing a degree in Computer Engineering
@@ -14,11 +15,11 @@
 
 ## 💻 Tech Stack
 
-- Languages: Java, C++, Python, JavaScript, HTML, CSS
+- Languages: Java, C, C++, Python, JavaScript, HTML, CSS
 - Frameworks: VueJS, Springboot
 - Tools: IntelliJ Ultimate IDE
 <div style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,8 +37,8 @@
 
 Here are some projects I'm proud of:
 
-1. [BerryMail](https://github.com/Armaritto/BerryMail)
-2. [ArmaShell](https://github.com/Armaritto/ArmaShell)
+1. [ArmaShell](https://github.com/Armaritto/ArmaShell)
+2. [BerryMail](https://github.com/Armaritto/BerryMail)
 3. [Paint](https://github.com/Armaritto/Paint)
 4. [Connect-4s](https://github.com/Armaritto/Connect-4)
 5. [Tournamate](https://github.com/Armaritto/Tournamate)
