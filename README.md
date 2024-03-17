@@ -59,9 +59,6 @@ alt="Armaritto"/>
 - X: [armaritto](https://twitter.com/armaritto)
 - Chess.com: [armia404](https://www.chess.com/member/armia404)
 
-<p align="center">
-  <img src="Bottom.svg" alt="Github Stats" />
-</p>
 
 ## 🤝 Let's Collaborate!
 
