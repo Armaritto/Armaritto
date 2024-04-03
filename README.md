@@ -47,8 +47,6 @@ Here are some projects I'm proud of:
 ## Stats 📊
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Armaritto&show_icons=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=algolia&border_radius=20&show_icons=true"
-alt="Armaritto"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaritto&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Armaritto"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20" alt="Armaritto"/>
 </div>
