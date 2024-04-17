@@ -7,7 +7,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [PintOS](https://github.com/Armaritto/PintOS))
+- 🔭 Currently working on [PintOS](https://github.com/Armaritto/PintOS)
 - 🌱 Learning OS, Java, Python, and VueJS
 - 💡 Interested in Software Engineering, Web Development
 - 📚 Pursuing a degree in Computer Engineering
