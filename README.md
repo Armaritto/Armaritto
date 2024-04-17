@@ -8,14 +8,14 @@
 
 - 🏛️ student at Faculty of Engineering Alexandria University
 - 🔭 Currently working on Relaxation :) <!-- [Producer-Consumer](https://github.com/SantiagoMontag/Equation-Solver)-->
-- 🌱 Learning Java, Python, and VueJS
-- 💡 Interested in Software Engineering, Embedded Systems
+- 🌱 Learning OS, Java, Python, and VueJS
+- 💡 Interested in Software Engineering, Web Development
 - 📚 Pursuing a degree in Computer Engineering
 - 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a developer
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, JavaScript, HTML, CSS
+- Languages: Java, C, C++, Python, JavaScript, Prolog, HTML, CSS
 - Frameworks: VueJS, Springboot
 - Tools: IntelliJ Ultimate IDE
 <div style="display: inline_block">
