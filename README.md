@@ -7,15 +7,15 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [PintOS](https://github.com/Armaritto/PintOS)
-- 🌱 Learning OS, Java, Python, and VueJS
+- 🔭 Currently working on [PintOS](https://github.com/Armaritto/PintOS) , [DS-Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs) , [ArmaGit](https://github.com/Armaritto/ArmaGit)
+- 🌱 Learning Git, Java, Python, and VueJS, OS
 - 💡 Interested in Software Engineering, Web Development
 - 📚 Pursuing a degree in Computer Engineering
 - 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a developer
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, JavaScript, Prolog, HTML, CSS
+- Languages: Java, C, C++, Git, Python, JavaScript, Prolog, HTML, CSS
 - Frameworks: VueJS, Springboot
 - Tools: IntelliJ Ultimate IDE
 <div style="display: inline_block">
@@ -37,12 +37,13 @@
 
 Here are some projects I'm proud of:
 
-1. [ArmaShell](https://github.com/Armaritto/ArmaShell)
-2. [BerryMail](https://github.com/Armaritto/BerryMail)
-3. [Paint](https://github.com/Armaritto/Paint)
-4. [Connect-4s](https://github.com/Armaritto/Connect-4)
-5. [Tournamate](https://github.com/Armaritto/Tournamate)
-6. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
+1. [ArmaGit](https://github.com/Armaritto/ArmaGit)
+2. [ArmaShell](https://github.com/Armaritto/ArmaShell)
+3. [BerryMail](https://github.com/Armaritto/BerryMail)
+4. [Paint](https://github.com/Armaritto/Paint)
+5. [Connect-4s](https://github.com/Armaritto/Connect-4)
+6. [Tournamate](https://github.com/Armaritto/Tournamate)
+7. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
 
 ## Stats 📊
 
