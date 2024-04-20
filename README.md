@@ -40,10 +40,11 @@ Here are some projects I'm proud of:
 1. [ArmaGit](https://github.com/Armaritto/ArmaGit)
 2. [ArmaShell](https://github.com/Armaritto/ArmaShell)
 3. [BerryMail](https://github.com/Armaritto/BerryMail)
-4. [Paint](https://github.com/Armaritto/Paint)
-5. [Connect-4s](https://github.com/Armaritto/Connect-4)
-6. [Tournamate](https://github.com/Armaritto/Tournamate)
-7. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
+4. [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph)
+5. [Paint](https://github.com/Armaritto/Paint)
+6. [Connect-4s](https://github.com/Armaritto/Connect-4)
+7. [Tournamate](https://github.com/Armaritto/Tournamate)
+8. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
 
 ## Stats 📊
 
