@@ -15,9 +15,9 @@
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Git, Python, JavaScript, Prolog, HTML, CSS
+- Languages: Java, C, C++, Python, JavaScript, Prolog, HTML, CSS
 - Frameworks: VueJS, Springboot
-- Tools: IntelliJ Ultimate IDE
+- Tools: Git, GitHub
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
