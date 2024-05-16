@@ -7,7 +7,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [PintOS](https://github.com/Armaritto/PintOS) , [ArmaGit](https://github.com/Armaritto/ArmaGit)
+- 🔭 Currently working on  [Film-Expert](https://github.com/RafyHany/Film-Expert), [ArmaGit](https://github.com/Armaritto/ArmaGit)
 - 🌱 Learning Git, Java, Python, and VueJS, OS
 - 💡 Interested in Software Engineering, Web Development
 - 📚 Pursuing a degree in Computer Engineering
@@ -37,11 +37,11 @@
 Here are some projects I'm proud of:
 
 1. [ArmaGit](https://github.com/Armaritto/ArmaGit)
-2. [ArmaShell](https://github.com/Armaritto/ArmaShell)
+2. [PintOS](https://github.com/Armaritto/PintOS)
 3. [BerryMail](https://github.com/Armaritto/BerryMail)
-4. [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph)
-5. [Paint](https://github.com/Armaritto/Paint)
-6. [Connect-4s](https://github.com/Armaritto/Connect-4)
+4. [ArmaShell](https://github.com/Armaritto/ArmaShell)
+5. [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph)
+6. [Paint](https://github.com/Armaritto/Paint)
 7. [DS-Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs)
 8. [Tournamate](https://github.com/Armaritto/Tournamate)
 9. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
