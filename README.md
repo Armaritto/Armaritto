@@ -51,7 +51,7 @@ Here are some projects I'm proud of:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaritto&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Armaritto"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Armaritto&border_radius=20&theme=algolia" alt="Armaritto"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20" alt="Armaritto"/>
+  <!-- <img height="180em" src="https://streak-stats.demolab.com?user=armaritto&count_private=true&theme=algolia&border_radius=20" alt="Armaritto"/> ->
 </div>
 
 
