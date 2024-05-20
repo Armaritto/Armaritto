@@ -7,7 +7,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on  [Film-Expert](https://github.com/Armaritto/Film-Expert), [ArmaGit](https://github.com/Armaritto/ArmaGit)
+- 🔭 Currently working on [ArmaGit](https://github.com/Armaritto/ArmaGit)
 - 🌱 Learning Git, Java, Python, and VueJS, OS
 - 💡 Interested in Software Engineering, Web Development
 - 📚 Pursuing a degree in Computer Engineering
@@ -36,15 +36,18 @@
 
 Here are some projects I'm proud of:
 
-1. [ArmaGit](https://github.com/Armaritto/ArmaGit)
-2. [PintOS](https://github.com/Armaritto/PintOS)
-3. [BerryMail](https://github.com/Armaritto/BerryMail)
-4. [ArmaShell](https://github.com/Armaritto/ArmaShell)
-5. [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph)
-6. [Paint](https://github.com/Armaritto/Paint)
-7. [DS-Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs)
-8. [Tournamate](https://github.com/Armaritto/Tournamate)
-9. [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) 
+| Project | Description | Language(s) |
+|---------|-------------|--------------|
+| [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
+| [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
+| [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS` |
+| [ArmaShell](https://github.com/Armaritto/ArmaShell) | A Unix shell implementation | 🔧 `C` |
+| [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | A tool for signal flow graphs | ☕ `Java`, 🌐 `VueJS` |
+| [Paint](https://github.com/Armaritto/Paint) | A simple paint application | ☕ `Java`, 🌐 `VueJS` |
+| [DS-Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs) | Data Structures lab projects | ☕ `Java` |
+| [Film-Expert](https://github.com/Armaritto/Film-Expert) | A film recommendation system | 🧠 `Prolog` |
+| [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) | An equation solver as numerical project| 🐍 `Python` |
+ 
 
 ## Stats 📊
 
