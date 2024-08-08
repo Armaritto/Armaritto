@@ -40,10 +40,11 @@ Here are some projects I'm proud of:
 |---------|-------------|--------------|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
 | [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
-| [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS` |
+| [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
+| [Library Managment System](https://github.com/Armaritto/LibraryManagementSystem) | A simple library system | ☕ `Java`, 🌱 `Springboot` |
 | [ArmaShell](https://github.com/Armaritto/ArmaShell) | A Unix shell implementation | 🔧 `C` |
-| [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | A tool for signal flow graphs | ☕ `Java`, 🌐 `VueJS` |
-| [Paint](https://github.com/Armaritto/Paint) | A simple paint application | ☕ `Java`, 🌐 `VueJS` |
+| [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | A tool for signal flow graphs | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
+| [Paint](https://github.com/Armaritto/Paint) | A simple paint application | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
 | [DS-Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs) | Data Structures lab projects | ☕ `Java` |
 | [Film-Expert](https://github.com/Armaritto/Film-Expert) | A film recommendation system | 🧠 `Prolog` |
 | [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) | An equation solver as numerical project| 🐍 `Python` |
