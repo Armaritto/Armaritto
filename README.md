@@ -8,7 +8,7 @@
 
 - 🏛️ student at Faculty of Engineering Alexandria University
 - 🔭 Currently working on [ArmaGit](https://github.com/Armaritto/ArmaGit)
-- 🌱 Learning Git, Java, Python, and VueJS, OS
+- 🌱 Learning Git, Java, Python, and VueJS, Flutter
 - 💡 Interested in Software Engineering, Web Development, Android Development
 - 📚 Pursuing a degree in Computer Engineering
 - 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a developer
