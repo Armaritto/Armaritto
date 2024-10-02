@@ -8,15 +8,15 @@
 
 - 🏛️ student at Faculty of Engineering Alexandria University
 - 🔭 Currently working on [ArmaGit](https://github.com/Armaritto/ArmaGit)
-- 🌱 Learning Git, Java, Python, and VueJS, Flutter
+- 🌱 Learning Git, Java, Python, React, Flutter, Android
 - 💡 Interested in Software Engineering, Web Development, Android Development
 - 📚 Pursuing a degree in Computer Engineering
 - 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a developer
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, JavaScript, Prolog, HTML, CSS
-- Frameworks: VueJS, Springboot
+- Languages: Java, C, C++, Python, JavaScript, Dart, Prolog, HTML, CSS
+- Frameworks: VueJS, React, Springboot, Android, Flutter
 - Tools: Git, GitHub
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -30,6 +30,10 @@
   <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" heigth="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 
 ## 🛠️ Projects
