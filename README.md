@@ -7,7 +7,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [ArmaGit](https://github.com/Armaritto/ArmaGit)
+- 🔭 Currently working on [ArmaGit](https://github.com/Armaritto/ArmaGit), [Arma-Minesweeper](https://github.com/Armaritto/Arma-Minesweeper)
 - 🌱 Learning Git, Java, Python, React, Flutter, Android
 - 💡 Interested in Software Engineering, Web Development, Android Development
 - 📚 Pursuing a degree in Computer Engineering
