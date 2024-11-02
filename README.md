@@ -5,15 +5,15 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [ArmaGit](https://github.com/Armaritto/ArmaGit), [Arma-Minesweeper](https://github.com/Armaritto/Arma-Minesweeper)
-- 🌱 Learning Git, Java, Python, React, Flutter, Android
-- 💡 Interested in Software Engineering, Web Development, Android Development
+- 🔭 Currently working on [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup)
+- 🌱 Learning React, Flutter, Android, SQL
+- 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
-- 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a developer
+- 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a software engineer
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, JavaScript, Dart, Prolog, HTML, CSS
+- Languages: Java, C, C++, Python, SQL, JavaScript, Dart, Prolog, HTML, CSS
 - Frameworks: VueJS, React, Springboot, Android, Flutter
 - Tools: Git, GitHub
 <div style="display: inline_block">
@@ -39,7 +39,7 @@
 Here are some projects I'm proud of:
 
 | Project | Description | Language(s) |
-|---------|-------------|--------------|
+|:-------:|:-----------:|:------------:|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
 | [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
 | [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
