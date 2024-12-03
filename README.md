@@ -5,7 +5,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup), [https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition](Dots-and-Boxes), [Feedify](https://github.com/rowangamal/Feedify)
+- 🔭 Currently working on [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup), [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition), [Feedify](https://github.com/rowangamal/Feedify)
 - 🌱 Learning React, Flutter, Android, SQL
 - 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
