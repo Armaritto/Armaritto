@@ -5,7 +5,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup)
+- 🔭 Currently working on [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup), [https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition](Dots-and-Boxes), [Feedify](https://github.com/rowangamal/Feedify)
 - 🌱 Learning React, Flutter, Android, SQL
 - 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 - Languages: Java, C, C++, Python, SQL, JavaScript, Dart, Prolog, HTML, CSS
-- Frameworks: VueJS, React, Springboot, Android, Flutter
+- Frameworks: Springboot, React, VueJS, Android, Flutter
 - Tools: Git, GitHub
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
