@@ -13,26 +13,32 @@
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, MySQL, JavaScript, Typescript, Prolog, HTML, CSS
-- Frameworks: Springboot, React, VueJS, Android, Flutter, Express, Tailwind CSS
-- Tools: Git, GitHub
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" heigth="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-</div>
+# **Tech Stack**
+
+## **Languages**  
+- ☕ **Java**  
+- 📘 **C++**  
+- 🔧 **C**  
+- 🐍 **Python**  
+- 🐬 **MySQL**  
+- 🌐 **JavaScript**  
+- 🛠 **TypeScript**  
+- 🧠 **Prolog**  
+- 📄 **HTML**  
+- 🎨 **CSS**  
+
+## **Frameworks & Libraries**  
+- 🌱 **Spring Boot**  
+- ⚛️ **React.js**  
+- 🌀 **Vue.js**  
+- 🤖 **Android**  
+- 🖼 **Flutter**  
+- 🚀 **Express.js**  
+- 🎨 **Tailwind CSS**  
+
+## **Tools**  
+- 📜 **Git**  
+- :octocat: **GitHub**  
 
 ## 🛠️ Projects
 
@@ -43,12 +49,12 @@ Here are some projects I'm proud of:
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
 | [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes | 📱 `Android`, ☕ `Java`, 📝 `XML` |
 | [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition)| Dots and Boxes challenge with questions | ⚛️ `React`, 🚀 `Express`, 🐬 `MySQL` | 
+| [Connect-4s](https://github.com/Armaritto/Connect-4s-v2.0) | Connect 4s game with AI opponent | 🐍 `Python`, 📄 `HTML`, 🎨 `CSS`, 🌐 `javascript`  |
 | [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
-| [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
-| [Connect-4s](https://github.com/Armaritto/Connect-4s-v2.0) | Connect 4s game with AI opponent | 🐍 `Python`, 📄 `HTML`  |
+| [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌀 `VueJS`, 🌱 `Springboot` |
 | [ArmaShell](https://github.com/Armaritto/ArmaShell) | A Unix shell implementation | 🔧 `C` |
-| [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | A tool for signal flow graphs | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
-| [Paint](https://github.com/Armaritto/Paint) | A simple paint application | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
+| [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | A tool for signal flow graphs | ☕ `Java`, 🌀 `VueJS`, 🌱 `Springboot` |
+| [Paint](https://github.com/Armaritto/Paint) | A simple paint application | ☕ `Java`, 🌀 `VueJS`, 🌱 `Springboot` |
 | [DS-Labs](https://github.com/Armaritto/CSE224-Data-Structures-2-Labs) | Data Structures lab projects | ☕ `Java` |
 | [Film-Expert](https://github.com/Armaritto/Film-Expert) | A film recommendation system | 🧠 `Prolog` |
 | [Equation-Solver](https://github.com/SantiagoMontag/Equation-Solver) | An equation solver as numerical project| 🐍 `Python` |
