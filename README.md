@@ -19,32 +19,6 @@
 | **Frameworks & Libraries** | 🌱 **Spring Boot**, ⚛️ **React.js**, 🌀 **Vue.js**, 🤖 **Android**, 🖼 **Flutter**, 🚀 **Express.js**, 🎨 **Tailwind CSS** |
 | **Tools**                | 📜 **Git**, :octocat: **GitHub** |
 
-
-### **Languages**  
-- ☕ **Java**  
-- 📘 **C++**  
-- 🔧 **C**  
-- 🐍 **Python**  
-- 🐬 **MySQL**  
-- 🌐 **JavaScript**  
-- 🛠 **TypeScript**  
-- 🧠 **Prolog**  
-- 📄 **HTML**  
-- 🎨 **CSS**  
-
-### **Frameworks & Libraries**  
-- 🌱 **Spring Boot**  
-- ⚛️ **React.js**  
-- 🌀 **Vue.js**  
-- 🤖 **Android**  
-- 🖼 **Flutter**  
-- 🚀 **Express.js**  
-- 🎨 **Tailwind CSS**  
-
-### **Tools**  
-- 📜 **Git**  
--  **GitHub**  
-
 ## 🛠️ Projects
 
 Here are some projects I'm proud of:
