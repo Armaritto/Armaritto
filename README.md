@@ -5,7 +5,7 @@
 ## 🚀 Quick Overview
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup), [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition), [Feedify](https://github.com/rowangamal/Feedify)
+- 🔭 Currently working on [Feedify](https://github.com/rowangamal/Feedify)
 - 🌱 Learning React, Flutter, Android, SQL
 - 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
@@ -13,8 +13,8 @@
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, SQL, JavaScript, Dart, Prolog, HTML, CSS
-- Frameworks: Springboot, React, VueJS, Android, Flutter
+- Languages: Java, C, C++, Python, MYSQL, JavaScript, Typescript, Prolog, HTML, CSS
+- Frameworks: Springboot, React, VueJS, Android, Flutter, Express, Tailwind CSS
 - Tools: Git, GitHub
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -41,6 +41,8 @@ Here are some projects I'm proud of:
 | Project | Description | Language(s) |
 |:-------:|:-----------:|:------------:|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
+| [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes | 📱 `Android`, ☕ `Java` , 📝 `XML` |
+| [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition)| Dots and Boxes challenge with questions | ⚛️ `React`, 🚀 `Express`, 🐬 `MySQL` | 
 | [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
 | [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
 | [Library Managment System](https://github.com/Armaritto/LibraryManagementSystem) | A simple library system | ☕ `Java`, 🌱 `Springboot` |
