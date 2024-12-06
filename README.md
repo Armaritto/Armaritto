@@ -6,14 +6,14 @@
 
 - 🏛️ student at Faculty of Engineering Alexandria University
 - 🔭 Currently working on [Feedify](https://github.com/rowangamal/Feedify)
-- 🌱 Learning React, Flutter, Android, SQL
+- 🌱 Learning React, Flutter, Android, MySQL
 - 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
 - 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a software engineer
 
 ## 💻 Tech Stack
 
-- Languages: Java, C, C++, Python, MYSQL, JavaScript, Typescript, Prolog, HTML, CSS
+- Languages: Java, C, C++, Python, MySQL, JavaScript, Typescript, Prolog, HTML, CSS
 - Frameworks: Springboot, React, VueJS, Android, Flutter, Express, Tailwind CSS
 - Tools: Git, GitHub
 <div style="display: inline_block">
