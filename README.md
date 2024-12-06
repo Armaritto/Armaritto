@@ -41,11 +41,11 @@ Here are some projects I'm proud of:
 | Project | Description | Language(s) |
 |:-------:|:-----------:|:------------:|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
-| [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes | 📱 `Android`, ☕ `Java` , 📝 `XML` |
+| [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes | 📱 `Android`, ☕ `Java`, 📝 `XML` |
 | [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition)| Dots and Boxes challenge with questions | ⚛️ `React`, 🚀 `Express`, 🐬 `MySQL` | 
 | [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
 | [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
-| [Library Managment System](https://github.com/Armaritto/LibraryManagementSystem) | A simple library system | ☕ `Java`, 🌱 `Springboot` |
+| [Connect-4s](https://github.com/Armaritto/Connect-4s-v2.0) | Connect 4s game with AI opponent | 🐍 `Python`, 📄 `HTML`  |
 | [ArmaShell](https://github.com/Armaritto/ArmaShell) | A Unix shell implementation | 🔧 `C` |
 | [Signal Flow Graph](https://github.com/Armaritto/signal-flow-graph) | A tool for signal flow graphs | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
 | [Paint](https://github.com/Armaritto/Paint) | A simple paint application | ☕ `Java`, 🌐 `VueJS`, 🌱 `Springboot` |
