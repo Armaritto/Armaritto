@@ -13,9 +13,14 @@
 
 ## 💻 Tech Stack
 
-# **Tech Stack**
+| **Category**             | **Technology**                                   |
+|--------------------------|--------------------------------------------------|
+| **Languages**            | ☕ **Java**, 📘 **C++**, 🔧 **C**, 🐍 **Python**, 🐬 **MySQL**, 🌐 **JavaScript**, 🛠 **TypeScript**, 🧠 **Prolog**|
+| **Frameworks & Libraries** | 🌱 **Spring Boot**, ⚛️ **React.js**, 🌀 **Vue.js**, 🤖 **Android**, 🖼 **Flutter**, 🚀 **Express.js**, 🎨 **Tailwind CSS** |
+| **Tools**                | 📜 **Git**, :octocat: **GitHub** |
 
-## **Languages**  
+
+### **Languages**  
 - ☕ **Java**  
 - 📘 **C++**  
 - 🔧 **C**  
@@ -27,7 +32,7 @@
 - 📄 **HTML**  
 - 🎨 **CSS**  
 
-## **Frameworks & Libraries**  
+### **Frameworks & Libraries**  
 - 🌱 **Spring Boot**  
 - ⚛️ **React.js**  
 - 🌀 **Vue.js**  
@@ -36,9 +41,9 @@
 - 🚀 **Express.js**  
 - 🎨 **Tailwind CSS**  
 
-## **Tools**  
+### **Tools**  
 - 📜 **Git**  
-- :octocat: **GitHub**  
+-  **GitHub**  
 
 ## 🛠️ Projects
 
