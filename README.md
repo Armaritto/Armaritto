@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&vCenter=true&width=500&height=40&lines=I+am+Armia+Joseph;A+Junior+Software+Engineer)](https://git.io/typing-svg)
 
-<a href=#><img src="contributions.svg"></a>
+<div align="center">
+ 
+![Snake animation](https://github.com/Armaritto/Armaritto/raw/output/github-snake-dark.svg)
+
+</div>
 
 ## 🚀 Quick Overview
 
