@@ -29,6 +29,7 @@ Here are some projects I'm proud of:
 
 | Project | Description | Language(s) |
 |:-------:|:-----------:|:------------:|
+| [Feedify](https://github.com/rowangamal/Feedify) | Social Media App | ☕ `Java`, ⚛️ `React`, 🌱 `Springboot`|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
 | [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes | 📱 `Android`, ☕ `Java`, 📝 `XML` |
 | [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition)| Dots and Boxes challenge with questions | ⚛️ `React`, 🚀 `Express`, 🐬 `MySQL` | 
