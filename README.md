@@ -7,9 +7,9 @@
 </div>
 
 ## 🚀 Quick Overview
+<!-- - 🔭 Currently working on [Feedify](https://github.com/rowangamal/Feedify)-->
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🔭 Currently working on [Feedify](https://github.com/rowangamal/Feedify)
 - 🌱 Learning React, Flutter, Android, MySQL
 - 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
