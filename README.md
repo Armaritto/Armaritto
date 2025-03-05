@@ -10,7 +10,7 @@
 <!-- - 🔭 Currently working on []()-->
 
 - 🏛️ student at Faculty of Engineering Alexandria University
-- 🌱 Learning Embedded Systems, Security
+- 🌱 Learning Pattern Recognition, Machine Learning, Embedded, Security, Graphics
 - 💡 Interested in Software Engineering, Web Development, Android Development, Cyber-Security
 - 📚 Pursuing a degree in Computer Engineering
 - 🎯 Goals: Contribute to open-source projects and continue to learn and grow as a software engineer
