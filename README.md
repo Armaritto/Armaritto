@@ -20,7 +20,7 @@
 | **Category**             | **Technology**                                   |
 |--------------------------|--------------------------------------------------|
 | **Languages**            | ☕ **Java**, 📘 **C++**, 🔧 **C**, 🐍 **Python**, 🐬 **MySQL**, 🌐 **JavaScript**, 🛠 **TypeScript**, 🧠 **Prolog**|
-| **Frameworks & Libraries** | 🌱 **Spring Boot**, ⚛️ **React.js**, 🌀 **Vue.js**, 🤖 **Android**, 🖼 **Flutter**, 🚀 **Express.js**, 🎨 **Tailwind CSS** |
+| **Frameworks & Libraries** | 🌱 **Spring Boot**, ⚛️ **React.js**, 🌀 **Vue.js**, 📱 **Android**, 🦋 **Flutter**, 🚀 **Express.js**, 🎨 **Tailwind CSS** |
 | **Tools**                | 📜 **Git**, :octocat: **GitHub** |
 
 ## 🛠️ Projects
@@ -29,11 +29,12 @@ Here are some projects I'm proud of:
 
 | Project | Description | Language(s) |
 |:-------:|:-----------:|:------------:|
+|[Piehme-Cup (Springboot)](https://github.com/stg-sporting-ebtda2i/piehme_cup_springboot) <br> [Piehme-Cup (Flutter)](https://github.com/stg-sporting-ebtda2i/piehme_cup_flutter) | FUT-Draft clone with quizzes | ☕ `Java`, 🌱 `Springboot`, 🦋 `Flutter` |
 | [Feedify](https://github.com/rowangamal/Feedify) | Social Media App | ☕ `Java`, ⚛️ `React`, 🌱 `Springboot`|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
-| [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes | 📱 `Android`, ☕ `Java`, 📝 `XML` |
 | [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition)| Dots and Boxes challenge with questions | ⚛️ `React`, 🚀 `Express`, 🐬 `MySQL` | 
 | [Connect-4s](https://github.com/Armaritto/Connect-4s-v2.0) | Connect 4s game with AI opponent | 🐍 `Python`, 📄 `HTML`, 🎨 `CSS`, 🌐 `javascript`  |
+| [Kiahk-Cup](https://github.com/Armaritto/Kiahk-Cup) | FUT-Draft clone with quizzes prototype | 📱 `Android`, ☕ `Java`, 📝 `XML` |
 | [PintOS](https://github.com/Armaritto/PintOS) | A simple operating system | 🔧 `C` |
 | [BerryMail](https://github.com/Armaritto/BerryMail) | Email server | ☕ `Java`, 🌀 `VueJS`, 🌱 `Springboot` |
 | [ArmaShell](https://github.com/Armaritto/ArmaShell) | A Unix shell implementation | 🔧 `C` |
