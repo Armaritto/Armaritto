@@ -29,7 +29,7 @@ Here are some projects I'm proud of:
 
 | Project | Description | Language(s) |
 |:-------:|:-----------:|:------------:|
-|[Piehme-Cup (Springboot)](https://github.com/stg-sporting-ebtda2i/piehme_cup_springboot) <br> [Piehme-Cup (Flutter)](https://github.com/stg-sporting-ebtda2i/piehme_cup_flutter) | FUT-Draft clone with quizzes | ☕ `Java`, 🌱 `Springboot`, 🦋 `Flutter` |
+|[Cup (Springboot)](https://github.com/stg-sporting-ebtda2i/piehme_cup_springboot) <br> [Cup (Flutter)](https://github.com/stg-sporting-ebtda2i/piehme_cup_flutter) | FUT-Draft clone with quizzes | ☕ `Java`, 🌱 `Springboot`, 🦋 `Flutter` |
 | [Feedify](https://github.com/rowangamal/Feedify) | Social Media App | ☕ `Java`, ⚛️ `React`, 🌱 `Springboot`|
 | [ArmaGit](https://github.com/Armaritto/ArmaGit) | A Git cheatsheet in Markdown | 📄 `Markdown` |
 | [Dots-and-Boxes](https://github.com/Armaritto/Dots-and-Boxes-Quiz-Edition)| Dots and Boxes challenge with questions | ⚛️ `React`, 🚀 `Express`, 🐬 `MySQL` | 
